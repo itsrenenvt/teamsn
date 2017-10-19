@@ -3,7 +3,7 @@
 const lodash = require('lodash');
 const obj={
   nombre: 'Rene Nvt',
-  edad: 19,
+  edad: 20,
   email: 'brnvtrene@gmail.com',
   tw: '@itsrenenvt'
 }
