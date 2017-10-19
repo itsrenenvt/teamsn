@@ -8,7 +8,7 @@ const obj={
   tw: '@itsrenenvt'
 }
 
-console.log(obj.email);
+console.log(obj.tw);
 
 /*
 
